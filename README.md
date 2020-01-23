@@ -1,4 +1,4 @@
-## GoFilms
+## DevFinder Web Client
 
 First of all, clone this repository to your machine and go inside the application folder to run a few starter commands.
 
